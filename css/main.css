@@ -13,3 +13,8 @@ body {
   outline: none;
   padding: 5px;
 }
+
+.mention {
+  background: none;
+  border: none;
+}
