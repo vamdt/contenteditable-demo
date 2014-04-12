@@ -18,3 +18,7 @@ body {
   background: none;
   border: none;
 }
+
+.mention i {
+  color: blue;
+}
