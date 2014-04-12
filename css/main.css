@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.edit-box {
+  width: 600px;
+  height: 400px;
+  margin: 20px auto auto;
+  box-shadow: 0 0 1em lightblue;
+  outline: none;
+  padding: 5px;
+}
